@@ -57,7 +57,46 @@ Key Concepts
     Prioritizing intelligence requirements: balancing resources and focusing on high-impact threats
     Communicating intelligence requirements: ensuring that the team understands and aligns with organizational priorities
 
+TOPIC-2: Primary Collection Source: Intrusion Analysis; Kill Chain Courses of Action; Kill Chain Deep Dive; Handling Multiple Kill Chains
+Primary Collection Source: Intrusion Analysis
+Overview
 
+Intrusion analysis is the process of examining security incidents and intrusions to understand the tactics, techniques, and procedures (TTPs) used by threat actors. Intrusion analysis is a primary source of information for cyber threat intelligence.
+Key Concepts
+
+    Incident response process: identification, containment, eradication, recovery, lessons learned
+    Analyzing intrusion artifacts: log data, network traffic, malware samples
+    Identifying patterns, similarities, and differences between intrusions
+
+Kill Chain Courses of Action
+Overview
+
+The Cyber Kill Chain is a framework used to describe the phases of a cyber attack. Courses of action (COAs) are proactive and reactive measures that organizations can take at each phase of the kill chain to detect, prevent, or mitigate attacks.
+Key Concepts
+
+    Understanding the Cyber Kill Chain phases: reconnaissance, weaponization, delivery, exploitation, installation, command and control, actions on objectives
+    Proactive and reactive COAs for each phase
+    Prioritizing COAs based on risk, impact, and feasibility
+
+Kill Chain Deep Dive
+Overview
+
+A deep dive into the Cyber Kill Chain framework provides a comprehensive understanding of the attacker's methodology and helps organizations identify gaps in their security posture.
+Key Concepts
+
+    In-depth analysis of each phase of the Cyber Kill Chain
+    Common tactics, techniques, and procedures (TTPs) used by threat actors at each phase
+    Identifying and addressing security gaps in the organization's defenses
+
+Handling Multiple Kill Chains
+Overview
+
+Threat actors often employ multiple kill chains in a single campaign or operation. Handling multiple kill chains requires an understanding of the relationships between them and the ability to prioritize resources and defenses.
+Key Concepts
+
+    Identifying relationships between kill chains: shared infrastructure, TTPs, objectives
+    Prioritizing defenses based on the criticality of assets, the severity of threats, and the potential impact of attacks
+    Coordinating responses to multiple kill chains to minimize risk and optimize resource utilization
 
 TOPIC-3: Case Study: HEXANE; Collection Source: Malware; Collection Source: Domains; Case Study: GlassRAT; Collection Source: External Datasets; Collection Source: TLS Certificates; Case Study: Trickbots
 Case Study: HEXANE

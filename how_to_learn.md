@@ -144,3 +144,38 @@
     Recognize the importance of regularly updating threat models to reflect the evolving threat landscape and organizational priorities
     
 # FOR578.2: The Fundamental Skillset: Intrusion Analysis  
+
+    Primary Collection Source: Intrusion Analysis
+    
+    Understand the importance of intrusion analysis as a primary collection source for cyber threat intelligence
+    Learn how intrusion analysis contributes to the identification, assessment, and understanding of cyber threats
+
+    Intrusion Analysis as a Core Skillset
+
+    Recognize the significance of having intrusion analysis as a core skillset within the intelligence team
+    Study the skills and knowledge required to perform effective intrusion analysis
+    Understand the role of continuous training and development in maintaining and enhancing intrusion analysis capabilities
+
+    Methods to Performing Intrusion Analysis
+    
+    Learn the various methods and techniques used in intrusion analysis, such as log analysis, network traffic analysis, and malware analysis
+    Understand the importance of a systematic and structured approach to intrusion analysis
+    Study the role of tools and technology in supporting intrusion analysis efforts
+
+    Intrusion Kill Chain
+    
+    Understand the concept of the Intrusion Kill Chain and its application in intrusion analysis
+    Learn the different stages of the kill chain (e.g., reconnaissance, weaponization, delivery, exploitation, installation, command and control, actions on objectives)
+    Study how to use the kill chain to identify, track, and disrupt adversary activities
+
+    MITRE ATT&CK
+    
+    Learn about the MITRE ATT&CK framework and its role in intrusion analysis
+    Understand the various tactics, techniques, and procedures (TTPs) within the framework
+    Study how to use MITRE ATT&CK to map and analyze adversary behavior and improve defensive strategies
+
+    Diamond Model
+    
+    Understand the Diamond Model of intrusion analysis and its components (adversary, capability, infrastructure, and victim)
+    Learn how to use the Diamond Model to assess, classify, and understand threat activity
+    Study the benefits of applying the Diamond Model in intrusion analysis and threat intelligence efforts

@@ -282,3 +282,35 @@
     Study the role of continuous learning and improvement in enhancing the organization's ability to detect and respond to future threats
     
 # FOR578.3: Collection Sources  
+
+    Case Study: HEXANE
+    
+    Research the HEXANE cyber-espionage campaign, its targets, methods, and impact
+    Analyze the incident response and mitigation efforts of affected organizations
+    Identify lessons learned and best practices for future cyber threat intelligence
+
+    Collection Source: Malware
+    
+    Understand the importance of malware as a collection source for cyber threat intelligence
+    Learn how malware analysis contributes to the identification, assessment, and understanding of cyber threats
+
+    Data from Malware Analysis
+    
+    Study the types of data and insights that can be obtained through malware analysis, such as TTPs, infrastructure, and objectives
+    Understand the role of malware analysis in providing valuable information for threat intelligence and incident response efforts
+
+    Key Data Types to Analyze and Pivot On
+    
+    Learn the key data types to focus on when analyzing malware, such as indicators of compromise (IOCs), command and control (C2) infrastructure, and adversary tactics
+    Understand how to pivot on these data types to expand the scope of threat analysis and uncover related threat activities
+
+    VirusTotal and Malware Parsers
+    
+    Study the role of tools and platforms like VirusTotal and malware parsers in supporting malware analysis efforts
+    Learn how to use these tools to analyze and interpret malware data for threat intelligence purposes
+
+    Identifying Intrusion Patterns and Key Indicators
+    
+    Understand the importance of identifying intrusion patterns and key indicators when analyzing malware
+    Learn the techniques and approaches for uncovering patterns, trends, and relationships in malware data
+    Study the role of pattern recognition and data correlation in detecting and understanding cyber threats

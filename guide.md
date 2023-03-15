@@ -1,3 +1,64 @@
+TOPIC-1: Case Study: MOONLIGHT MAZE; Understanding Intelligence; Case Study: Operation Aurora; Understanding Cyber Threat Intelligence; Threat Intelligence Consumption; Positioning the Team to Generate Intelligence; Planning and Direction
+Case Study: MOONLIGHT MAZE
+Overview
+
+MOONLIGHT MAZE was a cyber-espionage campaign that targeted US military, government, and academic institutions between 1996 and 1999. The perpetrators, believed to be Russian state-sponsored hackers, stole large amounts of sensitive data through a series of coordinated intrusions.
+Understanding Intelligence
+Overview
+
+Intelligence is the process of collecting, analyzing, and disseminating information to support decision-making. In the context of cybersecurity, intelligence helps organizations understand and mitigate cyber threats.
+Key Concepts
+
+    Different types of intelligence: tactical, operational, strategic
+    Intelligence cycle: planning, collection, processing, analysis, dissemination
+    Intelligence-driven security: using intelligence to prioritize and guide security decisions
+
+Case Study: Operation Aurora
+Overview
+
+Operation Aurora was a series of targeted cyber-attacks launched in 2009 by Chinese threat actors, primarily targeting Google and other major US technology companies. The campaign exploited a zero-day vulnerability in Internet Explorer to gain access to corporate networks and steal intellectual property.
+Understanding Cyber Threat Intelligence
+Overview
+
+Cyber threat intelligence is the collection, analysis, and dissemination of information about cyber threats, helping organizations understand and mitigate risks posed by threat actors.
+Key Concepts
+
+    Cyber threat intelligence sources: open-source, commercial, and internal
+    Cyber threat intelligence frameworks: MITRE ATT&CK, Cyber Kill Chain, Diamond Model
+    Integrating cyber threat intelligence into security operations
+
+Threat Intelligence Consumption
+Overview
+
+Threat intelligence consumption is the process of acquiring, integrating, and applying threat intelligence to improve an organization's security posture.
+Key Concepts
+
+    Intelligence requirements: identifying the organization's specific needs for threat intelligence
+    Intelligence sharing: participating in information sharing communities and leveraging shared intelligence
+    Intelligence automation: incorporating threat intelligence into security tools and processes
+
+Positioning the Team to Generate Intelligence
+Overview
+
+To effectively generate intelligence, an organization must establish a dedicated team with the right skills, tools, and processes.
+Key Concepts
+
+    Building a threat intelligence team: roles, responsibilities, and skill sets
+    Threat intelligence tools and technologies: SIEM, TIP, threat hunting platforms
+    Creating effective processes and workflows for intelligence generation
+
+Planning and Direction
+Overview
+
+Planning and direction are the first steps in the intelligence cycle, involving the identification of intelligence requirements, resource allocation, and establishing priorities.
+Key Concepts
+
+    Defining intelligence requirements: identifying the organization's specific needs for threat intelligence
+    Prioritizing intelligence requirements: balancing resources and focusing on high-impact threats
+    Communicating intelligence requirements: ensuring that the team understands and aligns with organizational priorities
+
+
+
 TOPIC-3: Case Study: HEXANE; Collection Source: Malware; Collection Source: Domains; Case Study: GlassRAT; Collection Source: External Datasets; Collection Source: TLS Certificates; Case Study: Trickbots
 Case Study: HEXANE
 Overview

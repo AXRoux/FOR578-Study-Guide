@@ -474,4 +474,71 @@
     Recognize the importance of understanding and identifying knowledge gaps in the context of cyber threat intelligence analysis
     Learn how to assess the sufficiency and reliability of available evidence and determine areas where additional information or research is needed to support or refute hypotheses
     
+    Analysis: Different Types of Analysis
     
+    Understand the various types of analysis used in cyber threat intelligence, including visual, data, and temporal analysis
+    Learn the strengths and weaknesses of each type of analysis and how to select the most appropriate approach based on the available data and analytical objectives
+
+    Visual Analysis
+    
+    Study the use of visual analysis techniques, such as charts, graphs, and diagrams, to represent, explore, and communicate complex threat data
+    Learn how visual analysis can help identify patterns, trends, and relationships that might not be apparent in raw data alone
+    
+    Data Analysis
+    
+    Understand the role of data analysis in cyber threat intelligence, including techniques for cleaning, transforming, and modeling data to extract meaningful insights
+    Learn how data analysis can help identify correlations, anomalies, and patterns that can inform threat intelligence assessments and decision-making
+    
+    Temporal Analysis
+    
+    Explore the use of temporal analysis to study the timing, frequency, and duration of cyber threat activities and events
+    Learn how temporal analysis can provide insights into adversary tactics, motivations, and operational tempo, as well as inform predictive assessments of future threats
+    
+    Case Study: Panama Papers
+    
+    Research the Panama Papers leak, its implications, and the role of data analysis in uncovering hidden relationships and networks
+    Analyze the incident response and mitigation efforts of affected organizations and individuals
+    Identify lessons learned and best practices for future data analysis and threat intelligence efforts
+    
+    Analysis: Clustering Intrusions
+    
+    Understand the concept of clustering intrusions in cyber threat intelligence, which involves grouping related threat activities or events based on common attributes or behaviors
+    Learn the techniques and tools for clustering intrusions effectively and accurately, including the use of similarity measures, algorithms, and data visualization methods
+    
+    Style Guide
+    
+    Recognize the importance of having a style guide for naming and categorizing threat groups, actors, and activities in a consistent and meaningful manner
+    Learn best practices for developing and maintaining a style guide that supports effective communication, collaboration, and analysis across the threat intelligence community
+    
+    Names and Clustering Rules
+    
+    Understand the significance of naming conventions and clustering rules in organizing and sharing threat intelligence data
+    Learn how to establish and apply consistent naming conventions and clustering rules that facilitate efficient analysis, tracking, and communication of threat information
+    
+    ACH for Intrusions
+    
+    Understand the application of Analysis of Competing Hypotheses (ACH) for evaluating multiple hypotheses related to cyber intrusions
+    Learn how to use ACH to enhance the rigor and objectivity of intrusion analysis and support more accurate assessments of threat activities
+    
+    Activity Groups and Diamond Model for Clusters
+    
+    Explore the use of activity groups and the Diamond Model as frameworks for clustering and analyzing related cyber intrusions
+    Learn how these models can help identify patterns, relationships, and trends across threat activities, as well as inform attribution and defensive strategies
+    
+    Style Guide
+    Reiterate the importance of having a style guide for naming and categorizing threat groups, actors, and activities in a consistent and meaningful manner
+    Review best practices for developing and maintaining a style guide that supports effective communication, collaboration, and analysis across the threat intelligence community
+    
+    Names and Clustering Rules
+    Revisit the significance of naming conventions and clustering rules in organizing and sharing threat intelligence data
+    Review the process of establishing and applying consistent naming conventions and clustering rules that facilitate efficient analysis, tracking, and communication of threat information
+    
+    ACH for Intrusions (Repetition)
+    
+    Reinforce the understanding of the application of Analysis of Competing Hypotheses (ACH) for evaluating multiple hypotheses related to cyber intrusions
+    Reiterate the benefits of using ACH to enhance the rigor and objectivity of intrusion analysis and support more accurate assessments of threat activities
+    
+    Activity Groups and Diamond Model for Clusters (Repetition)
+    
+    Reemphasize the use of activity groups and the Diamond Model as frameworks for clustering and analyzing related cyber intrusions
+    Reiterate how these models can help identify patterns, relationships, and trends across threat activities, as well as inform attribution and defensive strategies

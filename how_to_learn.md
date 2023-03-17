@@ -314,3 +314,94 @@
     Understand the importance of identifying intrusion patterns and key indicators when analyzing malware
     Learn the techniques and approaches for uncovering patterns, trends, and relationships in malware data
     Study the role of pattern recognition and data correlation in detecting and understanding cyber threats
+
+    Collection Source: Domains
+    
+    Understand the importance of domains as a collection source for cyber threat intelligence
+    Learn how analyzing adversary domains contributes to the identification, assessment, and understanding of cyber threats
+    
+    Domain Deep Dive
+    
+    Study the intricacies of domain data and how it can be used to gain insights into threat activities
+    Learn the techniques and tools for collecting, analyzing, and interpreting domain data for threat intelligence purposes
+    
+    Different Types of Adversary Domains
+    
+    Understand the different types of adversary domains, such as command and control (C2) domains, phishing domains, and malware distribution domains
+    Learn how to identify and differentiate between these types of domains to support threat intelligence efforts
+    
+    Pivoting Off of Information in Domains
+    
+    Learn the concept of pivoting in the context of domain analysis and its role in expanding the scope of threat investigation
+    Understand how to use domain information as a starting point to uncover additional adversary activity and infrastructure
+    
+    Case Study: GlassRAT
+    
+    Research the GlassRAT cyber-espionage campaign, its targets, methods, and impact
+    Analyze the incident response and mitigation efforts of affected organizations
+    Identify lessons learned and best practices for future cyber threat intelligence
+    Study the techniques and tools for pivoting off of domain data to enhance threat intelligence capabilities
+    
+    Collection Source: External Datasets
+    
+    Understand the importance of external datasets as a collection source for cyber threat intelligence
+    Learn how leveraging data from external sources can enhance the identification, assessment, and understanding of cyber threats
+    
+    Building Repositories from External Datasets
+    
+    Study the process of building repositories from external datasets to support threat intelligence efforts
+    Learn how to gather, organize, and maintain external data for efficient and effective analysis
+    Understand the role of data integration and normalization in creating comprehensive threat intelligence repositories
+    
+    Open-Source Intelligence Collection Tools and Frameworks
+    
+    Learn about various open-source intelligence (OSINT) collection tools and frameworks available for gathering external data
+    Understand the capabilities and limitations of these tools and frameworks in supporting threat intelligence efforts
+    Study how to effectively utilize OSINT collection tools and frameworks to enhance cyber threat intelligence capabilities
+    
+    Collection Source: TLS Certificates
+    
+    Understand the importance of TLS/SSL certificates as a collection source for cyber threat intelligence
+    Learn how analyzing TLS/SSL certificates can contribute to the identification, assessment, and understanding of cyber threats
+    
+    TLS/SSL Certificates
+    
+    Study the basics of TLS/SSL certificates, their purpose, and the information they contain
+    Learn how TLS/SSL certificates can provide valuable insights into adversary infrastructure and tactics when analyzed correctly
+    
+    Tracking New Malware Samples and C2 with TLS
+    
+    Understand the role of TLS/SSL certificate analysis in tracking new malware samples and command and control (C2) infrastructure
+    Learn the techniques and tools for monitoring and analyzing TLS/SSL certificates to detect and track threat activities
+    
+    Pivoting off of Information in TLS Certificates
+    
+    Learn the concept of pivoting in the context of TLS/SSL certificate analysis and its role in expanding the scope of threat investigation
+    Understand how to use TLS/SSL certificate information as a starting point to uncover additional adversary activity and infrastructure
+    Study the techniques and tools for pivoting off of TLS/SSL certificate data to enhance threat intelligence capabilities
+    
+    Case Study: TrickBot - Bottom is a framework that can be used with other case studies
+     
+    Research the TrickBot malware campaign, its targets, methods, and impact
+    Analyze the incident response and mitigation efforts of affected organizations
+    Identify lessons learned and best practices for future cyber threat intelligence
+
+    TrickBot's Evolution and Modus Operandi
+    Study the evolution of TrickBot malware from its early days to its current form and capabilities
+    Understand the modus operandi of TrickBot, including the infection methods, propagation techniques, and target selection
+
+    TrickBot's Infrastructure and TTPs
+    Learn about the infrastructure used by the threat actors behind TrickBot, such as command and control (C2) servers, distribution networks, and the use of TLS/SSL certificates
+    Understand the Tactics, Techniques, and Procedures (TTPs) employed by TrickBot operators, including the use of modular components, information stealing capabilities, and integration with other malware families
+
+    Detecting and Analyzing TrickBot Activity
+    Study the approaches and tools for detecting and analyzing TrickBot activity in affected networks
+    Learn how to identify and extract Indicators of Compromise (IOCs) related to TrickBot infections and use them to improve threat detection and intelligence
+
+    Mitigating TrickBot Threats
+    Understand the methods and best practices for mitigating the impact of TrickBot infections on organizations
+    Learn about the role of network security, endpoint protection, and user awareness training in defending against TrickBot and similar threats
+
+    Collaboration and Disruption Efforts
+    Explore the efforts of cybersecurity researchers, law enforcement agencies, and the private sector in collaborating to disrupt TrickBot's operations
+    Study the successes and challenges faced in these joint efforts and the ongoing need for cooperation in combating cyber threats
